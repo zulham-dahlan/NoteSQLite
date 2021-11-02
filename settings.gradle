@@ -1,0 +1,2 @@
+rootProject.name = "NoteSQL"
+include ':app'
